@@ -1,4 +1,4 @@
-# Installing_anaconda
+# Installing Anaconda
 Installing python with anaconda
 
 ## How to use Python using Anaconda version 3
@@ -38,5 +38,11 @@ conda create --name py37 python=3.7 matplotlib basemap gdal
 conda activate py37
 ```
 * Above I recommend installing the basemap and gdal libraries together because I have had problems installing the gdal library individually. 
+
+* Finally, the platform that I usually use is the "spyder"
+
+```
+conda install -c anaconda spyder 
+```
 
 # Thanks!!!!
