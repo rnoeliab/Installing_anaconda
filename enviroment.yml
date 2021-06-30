@@ -1,0 +1,36 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - earthengine-api=0.1.236
+  - google-api-python-client==1.12.8
+  - gdal=2.3.3
+  - pandas=1.1.5
+  - geopandas=0.9.0
+  - geos=3.6.2
+  - numpy
+  - matplotlib
+  - pillow
+  - basemap=1.2.0
+  - basemap-data-hires
+  - geobr=0.1.7
+  - pytz
+  - h5py
+  - hdf5
+  - proj4
+  - pyhdf
+  - scikit-image
+  - scikit-learn
+  - shapely
+  - scipy
+  - esmf
+  - seaborn
+  - shapely
+  - fiona
+  - mpich
+  - wrf-python
+  - xarray
+  - astropy
+  - spyder
+  - notebook
