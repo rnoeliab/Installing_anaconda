@@ -45,4 +45,12 @@ conda activate py37
 conda install -c anaconda spyder 
 ```
 
+## Another way to install libraries in a specific environment
+
+* It is very difficult to remember each installed library when we are working on a specific environment, therefore, there is another way to install these libraries all together. [evironment.yml](https://github.com/rnoeliab/Installing_anaconda/enviroment.yml). 
+
+```
+conda env create -f enviroment.yml -n pywrf 
+```
+
 # Thanks!!!!
